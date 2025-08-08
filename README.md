@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace the URL below with your actual LinkedIn banner image URL -->
-  <img src=["LINKEDIN_BANNER_IMAGE_URL](https://github.com/Divyansh2412/Divyansh2412/blob/main/Assets/generatedWithSivi-s1vArUFdHC6.png)" alt="LinkedIn Banner"/>
+  <img src=["https://github.com/Divyansh2412/Divyansh2412/blob/main/Assets/generatedWithSivi-s1vArUFdHC6.png"] alt="LinkedIn Banner"/>
 </p>
 
 # 👋 Hi, I'm Divyansh Miyan Bazaz

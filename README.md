@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Divyansh Miyan Bazaz
 
 <div align="center">
-  <img src="https://github.com/Divyansh2412/Divyansh2412/blob/main/assets/profile.jpg" alt="Divyansh's Profile Image" width="250" style="border-radius: 50%; border: 3px solid #6F2DBD;">
+  <img src="https://github.com/Divyansh2412/Divyansh2412/blob/main/Assets/updated%20photo.jpg" alt="Divyansh's Profile Image" width="250" style="border-radius: 50%; border: 3px solid #6F2DBD;" />
 </div>
 
 <p align="center">

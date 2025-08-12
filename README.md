@@ -105,6 +105,9 @@ I am a results-driven and versatile **AI & Full Stack Developer** with proven ex
 | **WhatsApp Web Clone** | MERN Stack, WebSockets, MongoDB | A full-stack chat application simulating WhatsApp Web features with real-time messaging. | [🔗 View](https://github.com/Divyansh2412/whatsapp-clone) |
 | **Speech Analyzer & Dubbing Application (SADA)** | Python, Flask, HTML/CSS/JS | Web app that records speech, converts it to text, and dubs it into multiple languages with audio playback. | [🔗 View](https://github.com/Divyansh2412/speech-analyzer-and-dubbing-application-SADA) |
 | **Automated Document Classification** | Python, Machine Learning, Flask | ML-based system for automatically classifying uploaded text documents into categories. | [🔗 View](https://github.com/Divyansh2412/Automated-Document-Classification) |
+| **Support Ticket Analysis** | Python, Streamlit, NLP | Analyzes customer support tickets with classification and sentiment analysis using machine learning and interactive Streamlit app. | [🔗 View](https://github.com/Divyansh2412/support-ticket-analysis) |
+| **Superstore Sales Dashboard** | Python, Streamlit, Plotly | Interactive dashboard for visualizing superstore sales data with KPIs, sales trends, and category-wise breakdown. | [🔗 View](https://github.com/Divyansh2412/superstore-dashboard) |
+| **Real Time KPI Tracker** | Python, Streamlit | Application to monitor and visualize KPIs in real-time with interactive dashboards and alerts. | [🔗 View](https://github.com/Divyansh2412/real_time_kpi_tracker) |
 
 ---
 
